@@ -19,7 +19,7 @@
   <a href="https://ko-fi.com/S6S2BGP40" target="_blank"> <img src="https://ko-fi.com/img/githubbutton_sm.svg"/> </a> 
 </p>
 
-## 📚 Projects
+## 📚 Projects (Experience 6+ years)
 
 - [Hunty Zombie Wiki](https://hunty-zombie.online/) - Roblox Game Wiki
   - [Hunty Zombie CDN](https://cdn.hunty-zombie.online/) - Cdn images server
