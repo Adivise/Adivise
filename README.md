@@ -19,6 +19,17 @@
   <a href="https://ko-fi.com/S6S2BGP40" target="_blank"> <img src="https://ko-fi.com/img/githubbutton_sm.svg"/> </a> 
 </p>
 
+## 📚 Projects
+
+- [Hunty Zombie Wiki](https://hunty-zombie.online/) - Roblox Game Wiki
+  - [Hunty Zombie CDN](https://cdn.hunty-zombie.online/) - Cdn images server
+- [ExpertiseX](https://expertisex.vercel.app/) - Advanced Discord Selfbot
+- [BeatSync](https://suntury.vercel.app/) - osu! request (personal) | Use passport osu! and twitch!
+- [BeatSync Extension](https://beat-sync-extension.vercel.app/) - osu! request but extension version all streamer can used
+  - [BeatSync Guide](https://beatsync-api.vercel.app/) - Guide user and alternative api server
+- [Discord Bot Status](https://stylish-api.vercel.app/) - Discord bot uptime status (bot is current offline)
+- And so many project that i make i dont remember at all
+
 ## ⭐ Join Our Community
 
 <p align="center"> 
