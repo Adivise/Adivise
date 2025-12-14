@@ -24,6 +24,7 @@
 - [Hunty Zombie Wiki](https://hunty-zombie.online/) - Roblox Game Wiki
   - [Hunty Zombie CDN](https://cdn.hunty-zombie.online/) - Cdn images server
 - [ExpertiseX](https://expertisex.vercel.app/) - Advanced Discord Selfbot
+- [sosu](https://sosu-site.vercel.app/) - Play song from osu!
 - [BeatSync](https://suntury.vercel.app/) - osu! request (personal) | Use passport osu! and twitch!
 - [BeatSync Extension](https://beat-sync-extension.vercel.app/) - osu! request but extension version all streamer can used
   - [BeatSync Guide](https://beatsync-api.vercel.app/) - Guide user and alternative api server
