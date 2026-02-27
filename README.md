@@ -21,10 +21,11 @@
 
 ## 📚 Projects (Experience 6+ years)
 
-- [Hunty Zombie Wiki](https://hunty-zombie.online/) - Roblox Game Wiki
-  - [Hunty Zombie CDN](https://cdn.hunty-zombie.online/) - Cdn images server
+- [LocalLayer](https://github.com/Adivise/LocalLayer) - Turn local-host site to windows capture (overlay)
 - [ExpertiseX](https://expertisex.vercel.app/) - Advanced Discord Selfbot
-- [sosu](https://sosu-site.vercel.app/) - Play song from osu!
+- [sosu](https://github.com/Adivise/sosu) - Play song from osu!
+  - [sosu-widgets](https://github.com/Adivise/sosu-widgets) - sosu widgets for streaming software
+  - [sosu-site](https://github.com/Adivise/sosu-site) - sosu website
 - [BeatSync](https://suntury.vercel.app/) - osu! request (personal) | Use passport osu! and twitch!
 - [BeatSync Extension](https://beat-sync-extension.vercel.app/) - osu! request but extension version all streamer can used
   - [BeatSync Guide](https://beatsync-api.vercel.app/) - Guide user and alternative api server
